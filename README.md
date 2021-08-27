@@ -1,5 +1,5 @@
-### Hi, everybody 👋
-Check my blogs if you'd like to
+### Hi, 👋
+Visit my blogs
 * https://golang-blog.blogspot.com 
 * https://java-ru-blog.blogspot.com
 * https://alextoolsblog.blogspot.com
