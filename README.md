@@ -5,3 +5,4 @@ Visit my blogs
 * https://alextoolsblog.blogspot.com
 * https://alextech18.blogspot.com
 * https://alexanderkurakin.blogspot.com
+* https://kubernetes-blog.blogspot.com
